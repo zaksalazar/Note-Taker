@@ -1,7 +1,7 @@
 const express = require('express');
 const PORT = process.env.PORT || 3001;
 const path = require('path');
-const apiRoutes = require('./routes/apiRoutes');
+const apiRoutes = require("./routes /apiRoutes");
 const app = express();
 
 //middleware
