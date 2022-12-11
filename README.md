@@ -8,3 +8,4 @@ This app was built using express.js and deployed using Heroku
 https://github.com/zaksalazar/Note-Taker
 
 ## Deployed Url 
+https://infinite-beyond-09525.herokuapp.com/
